@@ -1,6 +1,5 @@
 package screens;
 
-import DataAccessLayer.MoveDTO;
 import ServerHanlder.ServerHandler;
 import com.sun.org.apache.xpath.internal.operations.Mod;
 import screens.*;

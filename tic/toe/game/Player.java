@@ -1,5 +1,7 @@
 package tic.toe.game;
+
 public class Player {
+
     private String name;
     private int score;
 
@@ -13,6 +15,10 @@ public class Player {
     }
 
     public int getScore() {
-        return score;
-    }
+        return score;
+    }
+
+    public void setScore(int score) {
+        this.score = score;
+    }
 }

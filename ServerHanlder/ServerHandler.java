@@ -1,6 +1,5 @@
 package ServerHanlder;
 
-import DataAccessLayer.MoveDTO;
 import DataAccessLayer.PlayerDTO;
 import DataAccessLayer.RequestDTO;
 import java.io.IOException;
@@ -18,6 +17,7 @@ import javafx.scene.control.ButtonType;
 import javafx.stage.Stage;
 import screens.AvailabilityScreen;
 import screens.LoginScreen;
+import screens.MoveDTO;
 import screens.MultiModesScreen;
 import screens.OnlineHomePageScreen;
 import tic.toe.game.Mynav;
